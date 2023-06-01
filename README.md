@@ -14,5 +14,5 @@ __Pritam Mondal__
 
 ### Visit the app by clicking the link provided below
 
-
+https://obaidul-cs-20222-cardiac-diseases-detection-app-app-fxfsok.streamlit.app/
 
