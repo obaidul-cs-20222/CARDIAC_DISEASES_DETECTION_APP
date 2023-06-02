@@ -139,7 +139,7 @@ if __name__ == '__main__':
     if selected == "About Us":
         st.markdown("<h2 style='text-align: center;'>ABOUT US</h2>", unsafe_allow_html=True)
         st.markdown("____")
-        st.markdown("<p style='text-align: center;'>This is an academic project made by B.Sc Computer Science (Honors) final year students. This project is an ambitious academic endeavor aimed at exploring and advancing knowledge in the field of Machine Learning & Artifical Intelligence. As a team of passionate students, our goal is to delve into the intricacies of Machine Learning & Artifical Intelligence and contribute valuable insights to the existing body of knowledge.</p>", unsafe_allow_html=True)
+        st.markdown("<p style='text-align: center;'>This is an academic project made by B.Sc Computer Science (Honours) final year students. This project is an ambitious academic endeavor aimed at exploring and advancing knowledge in the field of Machine Learning & Artifical Intelligence. As a team of passionate students, our goal is to delve into the intricacies of Machine Learning & Artifical Intelligence and contribute valuable insights to the existing body of knowledge.</p>", unsafe_allow_html=True)
         st.markdown("____")
         st.markdown("<h4 style='text-align: center;'>Developed and maintained by</h4>", unsafe_allow_html=True)
         st.markdown("<p style='text-align: center;'><b>Md Obaidul Islam</b></p>", unsafe_allow_html=True)
