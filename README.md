@@ -10,7 +10,7 @@ __Swapnil Basu Choudhury__
 
 __Sneha__
 
-__Pritam__
+__Pritam Mondal__
 
 ### Visit the app by clicking the link provided below
 
