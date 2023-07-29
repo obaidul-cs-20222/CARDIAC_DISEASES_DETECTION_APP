@@ -8,9 +8,9 @@ __Md Obaidul Islam__
 
 __Swapnil Basu Choudhury__
 
-__Sneha Rana__
+__Sneha__
 
-__Pritam Mondal__
+__Pritam__
 
 ### Visit the app by clicking the link provided below
 
